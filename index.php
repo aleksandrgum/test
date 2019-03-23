@@ -1,6 +1,6 @@
 
         <?php
         // put your code here
-        echo "HELLO! Привет, первый запуск.";
+        echo "HELLO! Привет, первый запуск. Дополнение.";
         ?>
    
